@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Width
-permalink: /width/
+permalink: /Gravity/width/
 category: "width"
 tagline: "Analysis"
 ---

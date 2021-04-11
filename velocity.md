@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Velocity
-permalink: /velocity/
+permalink: /Gravity/velocity/
 category: "velocity"
 tagline: "Analysis"
 ---
