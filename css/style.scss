@@ -339,7 +339,7 @@ pre {
   margin-top: 1em;
 }
 .site-description {
-  font-size: 18px;
+  font-size: 24px;
   letter-spacing: 2px;
   text-indent: 6px;
   font-family: 'Josefin Sans';
@@ -425,6 +425,10 @@ pre {
 }
 .footer-heading {
   font-size: 18px;
+  margin-bottom: $spacing-unit / 2;
+}
+.footer-body {
+  font-size: 14px;
   margin-bottom: $spacing-unit / 2;
 }
 .contact-list,
