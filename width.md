@@ -1,7 +1,7 @@
 ---
-layout: archive
+layout: page
 title: Width
 permalink: /width/
 category: "width"
-tagline: "Tongue Width Analysis"
+tagline: "Analysis"
 ---

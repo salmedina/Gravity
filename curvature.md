@@ -1,7 +1,7 @@
 ---
-layout: archive
+layout: page
 title: Curvature
 permalink: /curvature/
 category: "curvature"
-tagline: "Tongue Curvature Analysis"
+tagline: "Analysis"
 ---

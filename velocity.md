@@ -1,7 +1,7 @@
 ---
-layout: archive
-title: Diphones
-permalink: /diphones/
-category: "diphones"
-tagline: "Data Diphones"
+layout: page
+title: Velocity
+permalink: /velocity/
+category: "velocity"
+tagline: "Analysis"
 ---
