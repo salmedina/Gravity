@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Data
-permalink: /Gravity/data/
+permalink: /data/
 category: "data"
 tagline: "Description"
 ---

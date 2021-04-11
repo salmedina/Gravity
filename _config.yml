@@ -9,8 +9,8 @@
 title: Continuous Tongue Motion Analysis
 email: 
 description: Salvador Medina, Sarah Taylor, Mark Tiede, Iain Matthews
-baseurl: "" # the subpath of your site, e.g. /blog
-url: "http://salmedina.github.io/Gravity" # the base hostname & protocol for your site
+baseurl: "/Gravity" # the subpath of your site, e.g. /blog
+url: "http://salmedina.github.io" # the base hostname & protocol for your site
 twitter_username: 
 github_username:  
 paginate: 5
