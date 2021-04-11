@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Curvature
-permalink: /curvature/
+permalink: /Gravity/curvature/
 category: "curvature"
 tagline: "Analysis"
 ---
